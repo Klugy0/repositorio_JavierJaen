@@ -3,8 +3,10 @@ package modelo;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import modelo.Perro;
-import modelo.Gato;
+/*
+ * Hemos creado p1 que es un perro y g1 que es un gato
+ * Hemos generado los sonidos de Perro y gato
+ * */
 
 public class App {
 
