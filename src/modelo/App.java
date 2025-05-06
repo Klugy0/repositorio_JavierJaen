@@ -1,7 +1,7 @@
 package modelo;
 /*
 * Hemos creado p1 que es un perro y g1 que es un gato
-* Hemos
+* Hemos generado los sonidos de Perro y gato
 * */
 public class App {
     public static void main(String[] args) {
